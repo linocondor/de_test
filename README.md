@@ -1,4 +1,4 @@
-# Text_DE_LinoCondor
+# Test_DE_LinoCondor
 Esta es la prueba que se realizó para ******.
 
 ## Comentarios
